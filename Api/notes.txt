@@ -1,0 +1,31 @@
+﻿* FilmService-ში გვაქვს უბრალოდ repository-ის მეთოდების გამოძახება. ეგ რომ პირდაპირ კონტროლერში გადავიტანოთ არ შეიძლება?
+* Inherited method-ები interface-შიც უნდა ჩაიყაროს?
+* რამენაირად ავტორიზაცია უნდა გვქონდეს რო ლისთები თუნდაც ვერ ცვალოს სხვამ
+* შემიძლია კონტროლერის კონტროლერში გამოძახება?
+* Paging film
+* GetList select
+* exception handling 
+* GetComment change
+* Revoke refresh token
+* Add film
+* Rating average
+* void task
+
+
+* gadavaketot rest ad
+* greylog seq  logging
+* yvelaferi davlogot
+* gavitanot Dto !!
+* logireba request response exceptions
+* moviedb api
+
+
+
+* rest mravlobiti
+* getFilm
+* getReview
+* რო წერია film/1/review/reviewId. reviewId აქ 1-დან უნდა იწყებოდეს?
+* fromBody-ის შერევა შეიძლება დამჭირდეს. დასატესტია. int personId, Person p
+* getComments (with reviewId)
+* getComment
+* _mapper.Map<RegistrationDTO>(editUser); აქ ხო არ შეუშლის ხელს ჩემი dto-დან id-ის ამოღება
